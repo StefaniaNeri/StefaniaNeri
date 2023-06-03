@@ -8,7 +8,7 @@ I'm a junior Frontend Developer, I've been learning to code for more than a year
 
 * 🌍  I'm based in Turin, Italy
 * ✉️  You can contact me at [stefania.neri.92@gmail.com](mailto:stefania.neri.92@gmail.com)
-* 🧠  I'm learning JavaScript, Bootstrap, React, and other things
+* 🧠  I'm learning JavaScript, Bootstrap, React, and more
 
 ### Skills
 
