@@ -8,7 +8,7 @@ I'm a junior Frontend Developer, studying to improve my current skills but consi
 
 * 🌍  I'm based in Turin, Italy
 * ✉️  You can contact me at [stefania.neri.92@gmail.com](mailto:stefania.neri.92@gmail.com)
-* 🧠  I'm learning JavaScript, Bootstrap, React
+* 🧠  I'm learning JavaScript, Bootstrap, React, and other things
 
 ### Skills
 
@@ -25,7 +25,7 @@ I'm a junior Frontend Developer, studying to improve my current skills but consi
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/StefaniaNeri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/stefania-neri-236381150" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/StefaniaNeri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" color="white" /></a> <a href="https://www.linkedin.com/in/stefania-neri-236381150" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
