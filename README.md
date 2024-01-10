@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Full Stack Developer
 ------------------
 
-I'm a junior Full Stack Developer, I've been learning to code for almost two years while on the path of switching careers. I'm working on improving my current skills day after day, by attending a Software Development Course in Turin.
+I'm a junior Full Stack Developer, I've been learning to code for almost two years while on the path of switching careers. I'm working on improving my current skills day after day and now attending a Software Development Course in Turin.
 
 * 🌍  I'm based in Turin, Italy
 * ✉️  You can contact me at [stefania.neri.92@gmail.com](mailto:stefania.neri.92@gmail.com)
