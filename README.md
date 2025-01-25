@@ -4,9 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Full Stack Developer
 ------------------
 
-I'm a junior Full Stack Developer, I've been learning to code for almost two years while on the path of switching careers. I'm working on improving my current skills day by day and now attending a Software Development Course in Turin.
+I'm a junior Full Stack Developer, I've been learning to code for almost two years. I'm currently working as an automation tester in Turin.
 
-* 🌍  I'm based in Turin, Italy
 * ✉️  You can contact me at [stefania.neri.92@gmail.com](mailto:stefania.neri.92@gmail.com)
 * 🧠  I'm continuing learning JavaScript, Java, Angular, MySQL, and more
 ### Skills
@@ -38,6 +37,6 @@ I'm a junior Full Stack Developer, I've been learning to code for almost two yea
 
 <a href="http://www.github.com/StefaniaNeri"><img src="https://github-readme-stats.vercel.app/api?username=StefaniaNeri&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="StefaniaNeri's GitHub stats" /></a>
 
-<a href="http://www.github.com/StefaniaNeri"><img src="https://github-readme-streak-stats.herokuapp.com/?user=StefaniaNeri&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- <a href="http://www.github.com/StefaniaNeri"><img src="https://github-readme-streak-stats.herokuapp.com/?user=StefaniaNeri&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
 <a href="https://github.com/StefaniaNeri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefaniaNeri&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
