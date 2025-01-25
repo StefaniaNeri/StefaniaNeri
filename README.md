@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Full Stack Developer
 ------------------
 
-I'm a junior Full Stack Developer, I've been learning to code for almost two years. I'm currently working as an automation tester in Turin.
+I'm a junior Full Stack Developer, I've been learning to code for almost two years.
+I'm currently working as an automation tester in Turin.
 
 * ✉️  You can contact me at [stefania.neri.92@gmail.com](mailto:stefania.neri.92@gmail.com)
 * 🧠  I'm continuing learning JavaScript, Java, Angular, MySQL, and more
